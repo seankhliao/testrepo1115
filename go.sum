@@ -1,0 +1,14 @@
+go.seankhliao.com/testrepo1114/a v0.0.1 h1:2NjukBo/mnhLNK3VmcH6k+5zkY5j9PcDCn3SkDbIgmA=
+go.seankhliao.com/testrepo1114/a v0.0.1/go.mod h1:N7DavLfTgSm+GyEwToZZA1HBDNMjrD81Gb+4aZpu2tc=
+go.seankhliao.com/testrepo1114/b v0.0.1 h1:rNEh8H2NFTYFFvuoLCrDHdmJrGgkQ5fs4axHxL4c3Qo=
+go.seankhliao.com/testrepo1114/b v0.0.1/go.mod h1:tM3UEs5nnwMgI2swVBoUNrsSdd0ZBBgLdumcTsfZDpg=
+go.seankhliao.com/testrepo1114/c v0.0.1 h1:NNj68Jm2ASc70kKdYY11Pkn+jVby4dA/TLAX7hYgB2M=
+go.seankhliao.com/testrepo1114/c v0.0.1/go.mod h1:yIgY3pGwpbdzR2tBoxD3dlj55np/mEQE2YFUiWfYMAI=
+go.seankhliao.com/testrepo1114/d v0.0.1 h1:nkErlsylmiy87+MGi2ocilR8x6pVN7N+uG+IH5fKbSA=
+go.seankhliao.com/testrepo1114/d v0.0.1/go.mod h1:Pk6RnxJRAMjZ47qg2d2a1UZqtOzDRql2+1BERxYkjQc=
+go.seankhliao.com/testrepo1114/e v0.0.1 h1:ThGdavaZE9pQ7EGE1x66dLds4DAy3V/eeKoVZBdId6I=
+go.seankhliao.com/testrepo1114/e v0.0.1/go.mod h1:GbeaQ22LDj/c4klFcLIuBnfqqeDXnL9bRLeV4n0ELa0=
+go.seankhliao.com/testrepo1114/f v0.0.1 h1:IgkL6uyfxwSHkIYBX1RPrFO1gdry5vM0C0hx5+EGAjM=
+go.seankhliao.com/testrepo1114/f v0.0.1/go.mod h1:tYo682L58an1cNEX0sABWVvX7mxA4R4WKykH5EXYz+I=
+go.seankhliao.com/testrepo1114/meta v0.0.1 h1:IcIORnag35y/QtRFACYiI60QwPRWLdATKfY8lmEwE+c=
+go.seankhliao.com/testrepo1114/meta v0.0.1/go.mod h1:BCDFheNYI3blueablYhrxPGn7lT5bqgZNl7ECJfG2Mk=
